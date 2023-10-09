@@ -3,3 +3,4 @@ new line change added at this file
 gitchange1
 gitchange2
 gitchange3
+gitnewchange
